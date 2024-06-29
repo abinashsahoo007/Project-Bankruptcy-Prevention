@@ -17,3 +17,5 @@ The project is to create a classification model that predicts the chances of a b
 * operating_risk: 0=low risk, 0.5=medium risk, 1=high risk.
 * class: bankruptcy, non-bankruptcy (target variable).
 
+  Acceptance Criterion is **We need to deploy the end results using Flask /Streamlit.etc.**
+
