@@ -8,7 +8,7 @@ The project is to create a classification model that predicts the chances of a b
 
 ## Details :
 
-** The data file contains 7 features about 250 companies including the following variables:
+**The data file contains 7 features about 250 companies including the following variables:**
 * industrial_risk: 0=low risk, 0.5=medium risk, 1=high risk.
 * management_risk: 0=low risk, 0.5=medium risk, 1=high risk.
 * financial flexibility: 0=low flexibility, 0.5=medium flexibility, 1=high flexibility.
