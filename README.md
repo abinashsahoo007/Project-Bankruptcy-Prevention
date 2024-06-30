@@ -19,3 +19,15 @@ The project is to create a classification model that predicts the chances of a b
 
 Acceptance Criterion is **We need to deploy the end results using Flask /Streamlit.etc.**
 
+### Algorithm Used:
+1.Logistic Regression
+2.DecisionTreeClassifier
+3.KNeighborsClassifier
+4.SupportVectorClassifier
+5.NaiveBayes
+6.RandomForest
+
+### Solution:
+Using your choice of classifiers, use python to produce several models to predict whether or not it is bankrupt, assessing model performance on a validation partition.
+Solution: Use Random Forest Method to come to your conclusion
+
