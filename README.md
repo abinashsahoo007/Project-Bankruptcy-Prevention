@@ -32,3 +32,5 @@ Using your choice of classifiers, use python to produce several models to predic
 >
 Solution: Use Random Forest Method to come to your conclusion
 
+## Final Output:
+![Screenshot 2024-06-30 102838](https://github.com/abinashsahoo007/Project-Bankruptcy-Prevention/assets/174187930/d55bc237-6912-4a6f-922e-750721fbf3b3)
